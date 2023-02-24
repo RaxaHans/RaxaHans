@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Raxa Hansana</h1>
 <h3 align="center">A passionate frontend developer from Wisconsin, USA</h3>
-<img align="right" alt="avatar" width="400" src="https://tinypic.host/images/2023/02/15/avataaars.png">
+<img align="right" alt="avatar" width="400" src="https://i.ibb.co/R2q5P6G/avataaars.png">
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at [raxahans.io](raxahans.io)<br>
-🔭 I’m currently working on building my portfolio<br>👯 I’m looking to collaborate on modern realtor websites<br>🤝 I’m looking for help with networking in the west coast<br>🌱 I’m currently learning typescript & python<br>💬 Ask me about my coding journey<br>⚡ Fun fact I graduated from Dev Mountain in 2020
+👨‍💻 All of my projects are available at <a href="https://www.raxahans.dev" target="_blank">raxahans.dev</a><br>
+🔭 I’m currently working on building my portfolio<br>👯 I’m looking to collaborate on e-commerce applications<br>🤝 I’m looking for help with networking in the west coast<br>🌱 I’m currently learning <i>typescript</i><br>⚡ Fun fact I graduated from Dev Mountain in 2020
 
 
 ## 🌐 Socials:
